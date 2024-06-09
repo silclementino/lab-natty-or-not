@@ -5,7 +5,10 @@ Como profissional de TI em uma instituição de ensino médico, sou responsável
 
 Decidi criar um e-book inspirado pela convivência com médicos e alunos que buscam realizar o sonho de conquistar a residência médica. É um sonho lindo, mas exige um investimento significativo e muitas horas de estudo!
 
-Estou muito satisfeito com a parceria entre a DIO e a Nexa no Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3.
+Estou muito satisfeita com a parceria entre a DIO e a Nexa no Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3.
+
+<b>Você pode baixar o e-book clicando [aqui](https://github.com/silclementino/lab-natty-or-not/blob/main/Ebook%20-%20IA%20Generativa%20no%20campo%20Médico.pdf).<b>
+
 
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT
